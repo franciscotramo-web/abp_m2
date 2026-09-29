@@ -1,0 +1,10 @@
+# Configuración local de VS Code y Live Server
+.vscode/
+
+# Historial local de archivos (generado por algunas extensiones de VS Code)
+.localhistory/
+
+# Archivos basura del sistema operativo (ocultos de forma automática)
+.DS_Store
+Thumbs.db
+desktop.ini
